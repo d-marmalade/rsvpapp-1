@@ -1,7 +1,7 @@
 # rsvpapp
 RSVP app by CloudYuga
 
-# Hello!
+# Hello
 
 ## Credits
 Thanks to [Anand Chitipothu](https://twitter.com/anandology) for helping us with the application development. 
